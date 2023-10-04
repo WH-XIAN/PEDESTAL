@@ -4,14 +4,13 @@ This is the code to reproduce the matrix sensing and matrix factorization experi
 
 ## Matrix Sensing 
 Go to the matrix sensing folder and run the command 
-
-'''
+```
 python matrix_sensing.py
-'''
+```
 
 ## Matrix Factorization 
 Go to the matrix factorization folder and run the command 
 
-'''
+```
 python matrix_factorization.py
-'''
+```
