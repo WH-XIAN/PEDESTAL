@@ -10,7 +10,17 @@ python matrix_sensing.py
 
 ## Matrix Factorization 
 Go to the matrix factorization folder and run the command 
-
 ```
 python matrix_factorization.py
 ```
+
+## Parameters
+The definition of parameters can be found by running
+```
+python matrix_sensing.py --help
+```
+or 
+```
+python matrix_factorization.py --help
+```
+Here we will introduce some important parameters in these two tasks.
